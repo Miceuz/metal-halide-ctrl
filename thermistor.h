@@ -1,3 +1,11 @@
+/*
+* A library for thermistor NCP18XH103F03RB. The output is linearised and 
+* provides 2% accuracy.
+*  
+* © Albertas Mickėnas 2016 
+* albertas@technarium.lt mic@wemakethings.net
+* This code is Open Source distributed under Apache 2.0 licence.
+*/
 
 #include <stdio.h>
 
